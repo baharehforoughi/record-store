@@ -24,6 +24,10 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+
+  background-image: url("/images/recordstore-background.png");
+  background-position: bottom center;
+  background-repeat: repeat-x;
 }
 
 @layer utilities {
